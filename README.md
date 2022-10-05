@@ -14,8 +14,8 @@ Run `python3 patch.py`. It will ask for an extension ID which you can get from t
 
 ## Permanent installation
 *Only do this if you are allowed to.*
-1. Follow instructions here: https://stackoverflow.com/a/59172713
-2. Drag the `.xpi` file into Firefox. It will be installed.
+1. Follow instructions here to sign the extension: https://stackoverflow.com/a/59172713
+2. Drag the signed `.xpi` file into Firefox. It will be installed.
 
 ## Legal warning
 
