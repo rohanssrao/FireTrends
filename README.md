@@ -7,10 +7,10 @@ Run `python3 patch.py`. It will ask for an extension ID which you can get from t
 
 ## Temporary installation
 *Works until the browser is restarted.*
-1. Go to about:debugging
-2. Click 'This Firefox'
-3. Click 'Load Temporary Add-on'
-4. Select the manifest.json file in the patched folder
+1. Go to `about:debugging`
+2. Click **This Firefox**
+3. Click **Load Temporary Add-on...**
+4. Select the `manifest.json` file in the patched folder
 
 ## Permanent installation
 *Only do this if you are allowed to.*
